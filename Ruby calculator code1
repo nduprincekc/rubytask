@@ -1,4 +1,3 @@
-
 print "Input the radius of the circle: "
 radius = gets.to_f
 perimeter = 2 * 3.141592653 * radius
